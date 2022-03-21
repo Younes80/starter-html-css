@@ -11,7 +11,7 @@
    - Mettre un paragraphe centré
    - Mettre un bouton "En savoir plus" centré
 
-   - Background-image
+   * Background-image
 
 3. Créer une section "Profile"
 
@@ -25,7 +25,7 @@
      - 1 paragraphe
      - un bouton
 
-   - Background noir
+   * Background noir
 
 4. Créer une section "image"
 
@@ -35,6 +35,6 @@
      - 1 titre
      - 1 paragraphe court
 
-   - Background-image
+   * Background-image
 
 ## Partie CSS
