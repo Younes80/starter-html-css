@@ -25,10 +25,24 @@
    - Background noir
 
 4. Créer une section "image"
+
    - Mettre 3 div avec 3 images en background
      - 1 icone
      - 1 titre
      - 1 paragraphe court
    - Background-image
 
+5. Créer une nouvelle page "Contact"
+   - Créer un formulaire de contact
+
 ## Partie CSS
+
+1. Télécharger un fichier normalize.css & l'intégrer dans le projet
+
+2. Fichier styles.css
+   - Créer un standard
+     - Container
+     - row
+     - box 100 / 75 / 50 / 25
+   - Rajouter une font
+   - Créer un standard pour les boutons
